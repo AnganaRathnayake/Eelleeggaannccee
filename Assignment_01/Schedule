@@ -1,0 +1,87 @@
+Development Approach: Iterative
+
+
+Frameworks:
+			GUI: LibGDX
+			DB access: Hibernate
+			Testing: JUnit
+			
+			
+*Please make comments for unobvious implementations, specially game logic codes should
+ be well commented, also read the ReadMe file inside the project.
+ 
+* Make your code modular.
+
+Roles:
+		Design Improvement: Kaushalya
+		GUI: Angana akka, Lakshani, Hansi
+		Data Access: Themiya, Kaushalya
+		Networking: Kaushalya, Ashain
+		GameLogic: Kaushalya, Ashain, Themiya
+		Reports: Lakshani
+		Testing(except unit testing): Themiya, Angana akka, Lakshani, Hansi, Kaushalya
+		
+		note: unit testing should be done by the person who implement the code
+	
+------------------------------------------------------------------------------------------------------------		
+1st Iteration: Finishes in 23rd 12.00 PM
+	Features to develop:
+		GUI: 
+			Game Play Screen: 22nd Wed June 12.00 PM
+			
+		
+		Game Play Logic: 
+			Implementing the word tree(dictionary): Ashain : 
+			Searching for the words in the tree: Ashain
+			Simulating the scrabble bag: Ashain
+			and other methods in flogschema
+			
+		
+		Networking:   
+			Sever side Implementation: Kaushalya; 17th Fri June
+			Client side Implementation Kaushalya; 20th Mon June
+		
+		Data Package Implementations:
+			DB methods using Hibernate: 22nd Wed June 12.00 PM
+			Files related methods: 20th Wed June 12.00 AM
+		
+		Reports:
+			Intrim Report skeleton upload: 15th Wed June 12.00 PM
+			Intrim Report Completion: 23rd Thu June 12.00 PM
+			Intrim Report Review & Updates: 24th June 12.00 PM
+			
+---------------------------------------------------------------------------------------------------------------
+2nd Iteration(Alpha Release): 30th of June, 12.00 PM
+		GUI:
+			Welcome Screen:
+			Main Menu Screen:
+			New Game Screen:
+			Join Game Screen:
+			Pause Screen:
+			Help Screen:
+			Stats Screen:
+		
+		note: these screens should not be nice for now, but all components(ex: buttons, text boxes) should be there
+			
+		Game Logic:
+		
+		Networking:
+		
+		Testing & Playing
+		
+-----------------------------------------------------------------------------------------------------------------
+3rd Iteration(Beta Release): 7th of July,
+
+		GUI:
+			Beautifying the screens
+			Background Images
+			Animations
+			
+		Final Report:
+
+
+------------------------------------------------------------------------------------------------------------------
+4th Iteration(Stable Release): 14th of July
+		
+			
+		
