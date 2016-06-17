@@ -10,7 +10,7 @@ Frameworks:
 *Please make comments for unobvious implementations, specially game logic codes should
  be well commented, also read the ReadMe file inside the project.
  
-* Make your code modular.
+* Make your code modular & less coupling
 
 Roles:
 		Design Improvement: Kaushalya
@@ -78,7 +78,10 @@ Roles:
 			Animations
 			
 		Final Report:
-
+			Uploading the skeleton: 30th June
+			Finalizing: 12th July
+			Review: 14th July
+			
 
 ------------------------------------------------------------------------------------------------------------------
 4th Iteration(Stable Release): 14th of July
